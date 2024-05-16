@@ -1,0 +1,1074 @@
+# Translation of Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-07 21:22:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WooCommerce Cart Abandonment Recovery - Stable (latest release)\n"
+
+#: classes/class-cartflows-ca-tabs.php:457
+msgid "Product Custom Data: "
+msgstr "Дані власного товару: "
+
+#. translators: %s Message
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:445
+msgid "%s Email Template:"
+msgstr "%s Шаблон email:"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:50
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:157
+#: modules/cart-abandonment/classes/class-cartflows-ca-setting-functions.php:113
+msgid "Permission denied."
+msgstr "В доступі відмовлено."
+
+#. translators: %s: html tags
+#: classes/class-cartflows-ca-tabs.php:522
+msgid "Looks like abandonment tracking is disabled! Please enable it from %1$s settings %2$s."
+msgstr "Схоже, відстеження залишення вимкнено! Будь ласка, увімкніть його у %1$s налаштуваннях %2$s."
+
+#: modules/weekly-email-report/templates/email-recovery-stat.php:101
+msgid "Carts Recovered"
+msgstr "Кошик відновлено"
+
+#: modules/weekly-email-report/templates/email-recovery-stat.php:73
+msgid "Carts Abandoned"
+msgstr "Кошики, що залишилися без уваги"
+
+#: modules/weekly-email-report/templates/email-recovery-stat.php:25
+msgid "Full Overview"
+msgstr "Повний огляд"
+
+#: modules/weekly-email-report/templates/email-content-section.php:93
+msgid "(Last 30 days)"
+msgstr "(Останні 30 днів)"
+
+#: modules/weekly-email-report/templates/email-content-section.php:79
+msgid "(Last 7 days)"
+msgstr "(Останні 7 днів)"
+
+#. translators: %1$s: store name, %2$s: total revenue.  %3$s: total revenue
+#: modules/weekly-email-report/templates/email-content-section.php:42
+msgid "%1$s has recovered a total %2$s revenue in last week by using Cart Abandonment Recover by CartFlows! And in last month, we recovered %3$s"
+msgstr "%1$s відновив загальний дохід у розмірі %2$s за минулий тиждень, використовуючи Cart Abandonment Recover від CartFlows! А протягом останнього місяця ми відновили %3$s"
+
+#: modules/weekly-email-report/templates/email-bsf-product-block.php:41
+msgid "TRY OUR OTHER PRODUCTS"
+msgstr "СПРОБУЙТЕ НАШІ ІНШІ ТОВАРИ"
+
+#: classes/class-cartflows-ca-settings.php:665
+msgid "Fixed cart discount"
+msgstr "Фіксована знижка на кошик"
+
+#: classes/class-cartflows-ca-settings.php:664
+msgid "Percentage discount"
+msgstr "Відсоток знижки"
+
+#: modules/weekly-email-report/templates/email-bsf-product-block.php:26
+msgid "Would you like to try our other products that help WooCommerce stores sell more?"
+msgstr "Хочете спробувати наші інші товари, які допомагають магазинам WooCommerce продавати більше?"
+
+#. translators: %1$s - link to a site;
+#: modules/weekly-email-report/templates/email-footer.php:62
+msgid "This email was auto-generated and sent from %1$s."
+msgstr "Цей лист створено автоматично та надіслано з %1$s."
+
+#: modules/weekly-email-report/class-cartflows-ca-admin-report-emails.php:92
+msgid "There"
+msgstr "Там"
+
+#: classes/class-cartflows-ca-settings.php:477
+msgid "Add email address per line."
+msgstr "Додайте адресу електронної пошти окремим рядком."
+
+#: classes/class-cartflows-ca-settings.php:265
+msgid "Email address to send recovery report emails. For multiple emails, add each email address per line."
+msgstr "Адреса електронної пошти для надсилання звітів про відновлення. Для декількох адрес електронної пошти додайте кожну адресу електронної пошти окремим рядком."
+
+#: modules/weekly-email-report/templates/email-header.php:30
+msgid "Your weekly cart abandonment summary from CartFlows."
+msgstr "Ваш тижневий підсумок про відмови від кошиків від CartFlows."
+
+#. translators: %s admin name
+#: modules/weekly-email-report/templates/email-content-section.php:27
+msgid "Hey %s!"
+msgstr "Привіт %s!"
+
+#: modules/weekly-email-report/templates/email-cf-block.php:61
+msgid "GET CARTFLOWS NOW"
+msgstr "ОТРИМАЙТЕ CARTFLOWS ЗАРАЗ"
+
+#: modules/weekly-email-report/templates/email-cf-block.php:43
+msgid "Want to earn 30% more store revenue on autopilot? CartFlows order bumps and upsells help you do just that. Try CartFlows Pro risk-free for 30 days!"
+msgstr "Хочете заробити на 30% більше доходу магазину автоматично? Пропозиції та додаткові послуги CartFlows допоможуть вам зробити це. Спробуйте CartFlows Pro протягом 30 днів без ризику!"
+
+#: modules/weekly-email-report/templates/email-cf-block.php:26
+msgid "CartFlows Pro can help you to increase conversion and maximize profits."
+msgstr "CartFlows Pro може допомогти вам збільшити конверсію та максимізувати прибуток."
+
+#: modules/weekly-email-report/templates/email-body.php:19
+msgid "Cart Abandonment Recovery Weekly Report"
+msgstr "Тижневий звіт про відновлення відмов від кошиків"
+
+#: modules/weekly-email-report/class-cartflows-ca-admin-report-emails.php:170
+msgid "You have successfully unsubscribed from our weekly emails list."
+msgstr "Ви успішно відписалися від нашого щотижневого списку розсилання."
+
+#: modules/weekly-email-report/class-cartflows-ca-admin-report-emails.php:107
+msgid "Your Weekly Cart Abandonment Summary is here - CartFlows"
+msgstr "Ваш щотижневий підсумок про відмови від кошиків отримано - CartFlows"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:543
+msgid "Email will be sent in WooCommerce email format. Also the sender name and sender email address will be replaced by the Woocommerce Email sender options."
+msgstr "Лист буде відправлена у форматі електронної пошти WooCommerce. Також ім'я відправника та адреса електронної пошти відправника буде замінена параметрами електронної пошти WooCommerce."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:530
+msgid "Use WooCommerce email style"
+msgstr "Використовуйте стиль листів WooCommerce"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:130
+msgid "Don't remind me again."
+msgstr "Більше не нагадувати."
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:429
+msgid "%1$sPlugin Settings%2$s"
+msgstr "%1$sНалаштування плагіна%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:391
+msgid "%1$sGDPR Settings%2$s"
+msgstr "%1$sНалаштування GDPR%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:381
+msgid "%1$sWebhook Settings%2$s"
+msgstr "%1$sНалаштування вебхуків%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:311
+msgid "%1$sCoupon Code Settings%2$s"
+msgstr "%1$sНалаштування кодів купонів%2$s"
+
+#: classes/class-cartflows-ca-settings.php:256
+msgid "Enable sending recovery report emails."
+msgstr "Увімкнути відправку електронних листів звітів про відновлення."
+
+#: classes/class-cartflows-ca-settings.php:252
+msgid "Send recovery report emails"
+msgstr "Відправити електронні листи звітів про відновлення"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:245
+msgid "%1$sRecovery Report Emails%2$s"
+msgstr "%1$sЕлектронні листи звітів про відновлення%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:192
+msgid "%1$sEmail Settings%2$s"
+msgstr "%1$sНалаштування електронної пошти%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:154
+msgid "%1$sCoupons Settings%2$s"
+msgstr "%1$sНалаштування купонів%2$s"
+
+#. translators: %1$s: html start, %2$s: html end
+#: classes/class-cartflows-ca-settings.php:59
+msgid "%1$sCart Abandonment Settings%2$s"
+msgstr "%1$sНалаштування відмов від кошика%2$s"
+
+#. translators: %1$s Software Title, %2$s Plugin, %3$s Anchor opening tag, %4$s
+#. Anchor closing tag, %5$s Software Title.
+#: classes/class-cartflows-ca-admin-notices.php:122
+msgid "%1$sWooCommerce Cart Abandonment recovery:%2$s We just introduced an awesome new feature, weekly order recovery reports via email. Now you can see how many orders we are recovering for your store each week, without having to log into your website. You can set the email address for these email from %3$shere.%4$s"
+msgstr "%1$sWooCommerce Cart Abandonment recovery:%2$s Ми тільки що представили чудову нову функцію, щотижневі звіти про відновлення замовлень електронною поштою. Тепер ви можете бачити, скільки замовлень ми відновлюємо для вашого магазину кожного тижня, не входячи на ваш веб-сайт. Ви можете встановити адресу електронної пошти для цих листів звітів %3$sтут.%4$s"
+
+#. translators: %s: html tags
+#: classes/class-cartflows-ca-loader.php:142
+msgid "Required database tables are not created for %1$sWooCommerce Cart Abandonment Recovery%2$s plugin. Please make sure that the database user has the REFERENCES privilege to create tables."
+msgstr "Не створено потрібні таблиці бази даних для плагіна %1$sWooCommerce Cart Abandonment recovery%2$s. Будь ласка, переконайтеся, що користувач бази даних має привілегії REFERENCES для створення таблиць."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:100
+msgid "This coupon is for abandoned cart email templates."
+msgstr "Цей купон призначений для шаблонів електронних листів залишених кошиків."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:143
+msgid "Webhook URL is required."
+msgstr "Потрібна URL-адреса вебхука."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:142
+msgid "Please verify webhook URL."
+msgstr "Будь ласка, перевірте URL-адресу вебхука."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:141
+msgid "Trigger Success."
+msgstr "Успішно викликано."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:140
+msgid "Trigger Failed."
+msgstr "Виклик невдалося."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:139
+msgid "Triggering..."
+msgstr "Викликається..."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:149
+msgid "Admin"
+msgstr "Адміністратор"
+
+#: classes/class-cartflows-ca-settings.php:494
+msgid "Add UTM parameter per line."
+msgstr "Додати параметр UTM за кожним рядком."
+
+#: classes/class-cartflows-ca-settings.php:140
+msgid "The UTM parameters will be appended to the checkout page links which is available in the recovery emails."
+msgstr "Параметри UTM будуть додані до посилань на сторінку оформлення замовлення, які доступні у електронних листах з відновленням."
+
+#: classes/class-cartflows-ca-settings.php:136
+msgid "UTM parameters"
+msgstr "Параметри UTM"
+
+#: classes/class-cartflows-ca-settings.php:84
+msgid "Minutes. <br/><br/> <span class=\"description\"><strong>Note:</strong> Consider cart abandoned after above entered minutes of item being added to cart and order not placed.</span><span class=\"dashicons dashicons-editor-help\" title=\"Please remove the custom code to update cron cut off time, if added.\"></span>"
+msgstr "Хвилини. <br/><br/> <span class=\"description\"><strong>Примітка:</strong> Вважайте кошик відмовленим після введення вище вказаних хвилин, коли товар додано до кошика, а замовлення не здійснено.</span><span class=\"dashicons dashicons-editor-help\" title=\"Будь ласка, видаліть спеціальний код для оновлення часу відсікання крона, якщо він доданий.\"></span>"
+
+#: classes/class-cartflows-ca-settings.php:80
+msgid "Cart abandoned cut-off time"
+msgstr "Час відсікання відмовленого кошика"
+
+#: classes/class-cartflows-ca-admin-notices.php:96
+msgid "I already did"
+msgstr "Я це вже зробив"
+
+#: classes/class-cartflows-ca-admin-notices.php:95
+msgid "Nope, maybe later"
+msgstr "Ні, можливо пізніше"
+
+#: classes/class-cartflows-ca-admin-notices.php:93
+msgid "Ok, you deserve it"
+msgstr "Добре, ви на це заслуговуєте"
+
+#: classes/class-cartflows-ca-admin-notices.php:91
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the CartFlows cart abandonment plugin."
+msgstr "Чи не могли б ви зробити нам ВЕЛИКУ послугу і поставити йому 5-зірковий рейтинг на WordPress? Це підвищить нашу мотивацію та допоможе іншим користувачам прийняти комфортне рішення при виборі плагіна CartFlows cart abandonment."
+
+#: classes/class-cartflows-ca-admin-notices.php:90
+msgid "Hello! Seems like you have used WooCommerce Cart Abandonment Recovery by CartFlows plugin to recover abandoned carts. &mdash; Thanks a ton!"
+msgstr "Привіт! Схоже, ви використовували плагін WooCommerce Cart Abandonment Recovery від CartFlows, щоб відновлювати відмовлені кошики. — Велике спасибі!"
+
+#: classes/class-cartflows-ca-settings.php:443
+msgid "Enabling this option will delete the plugin data while deleting the Plugin."
+msgstr "Включення цієї опції призведе до видалення даних плагіна при видаленні плагіна."
+
+#: classes/class-cartflows-ca-settings.php:439
+msgid "Delete Plugin Data"
+msgstr "Видалити дані плагіна"
+
+#: classes/class-cartflows-ca-settings.php:112
+msgid " It will not send future recovery emails to selected order status and will mark as recovered."
+msgstr " Відключення надсилання листів звітів про відновлення для обраних статусів замовлення та позначення їх як відновлені."
+
+#: classes/class-cartflows-ca-settings.php:108
+msgid "Exclude email sending For"
+msgstr "Виключити відправку електронної пошти для"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Дозволити відстежування невідомих даних про використання для товарів %s."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "Дізнатися більше."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr " Це буде застосовуватися до всіх сайтів з мережі."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Використовувати відстеження"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:250
+msgid "Yes! Allow it"
+msgstr "Так! Дозволити"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:242
+msgid " Know More."
+msgstr " Дізнатися більше."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:218
+msgid "This will be applicable for all sites from the network."
+msgstr "Це буде застосовуватися до всіх сайтів з мережі."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:215
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Хочете допомогти зробити <strong>%1s</strong> ще приголомшливішим? Дозволити нам збирати неконфіденційні діагностичні дані та інформацію про використання. "
+
+#: lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "Ідентифікатор WordPress не перевірено."
+
+#. translators: %d order id
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:130
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:133
+msgid "New Customer Order - Recovered Order ID: %d"
+msgstr "Нове замовлення від клієнта - відновлений ID замовлення: %d"
+
+#: classes/class-cartflows-ca-settings.php:126
+msgid "This option will send an email to admin on new order recovery."
+msgstr "Включення цієї опції надсилатиме електронний лист адміністратору про відновлення нового замовлення."
+
+#: classes/class-cartflows-ca-settings.php:122
+msgid "Notify recovery to admin"
+msgstr "Повідомити адміністратора про відновлення"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:1046
+msgid "No such order is found."
+msgstr "Немає такого замовлення."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:1042
+msgid "Do you really want to export orders?"
+msgstr "Ви дійсно бажаєте експортувати замовлення?"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:133
+msgid "Search Orders"
+msgstr "Пошук замовлень"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:132
+msgid "Search by email"
+msgstr "Шукати за електронною поштою"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:72
+msgid "Do you really want to reschedule emails?"
+msgstr "Ви дійсно бажаєте перепланувати листи?"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:781
+msgid "Update Changes"
+msgstr "Оновити зміни"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:779
+msgid "Save Changes"
+msgstr "Зберегти Зміни"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:766
+msgid "Send a test email"
+msgstr "Відправити тестовий електронний лист"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:737
+msgid "Minute(s)"
+msgstr "Хвилин"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:137
+msgid "Unsubscribe Link"
+msgstr "Посилання на відміну підписки"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:136
+msgid "Site URL"
+msgstr "URL-адреса сайту"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:135
+msgid "Cart Abandonment Date"
+msgstr "Дата відмовлення від кошика"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:134
+msgid "Customer Full Name"
+msgstr "Повне ім'я клієнта"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:133
+msgid "Customer Last Name"
+msgstr "Прізвище клієнта"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:132
+msgid "Customer First Name"
+msgstr "Ім'я клієнта"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:131
+msgid "Coupon Code"
+msgstr "Код купону"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:130
+msgid "Cart Checkout URL"
+msgstr "URL-адреса для оформлення замовлення"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:129
+msgid "Abandoned Product Names"
+msgstr "Назви відмовлених товарів"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:128
+msgid "Abandoned Product Details Table"
+msgstr "Таблиця деталей відмовлених товарів"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:127
+msgid "Admin Company"
+msgstr "Адміністратор компанії"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:126
+msgid "Admin Firstname"
+msgstr "Ім'я адміністратора"
+
+#. translators: %1$s: Coupons Deleted, %2$s: Deleted coupons count'.
+#: modules/cart-abandonment/classes/class-cartflows-ca-setting-functions.php:141
+msgid "%1$s: %2$d"
+msgstr "%1$s: %2$d"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:1041
+msgid "Do you really want to delete the used and expired coupons created by Cart Abandonment Plugin?"
+msgstr "\"Ви дійсно бажаєте видалити використані та протерміновані купони, створені плагіном відновлення кошиків?"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:89
+msgid "Scheduled At"
+msgstr "Заплановано на"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:88
+msgid "Email Sent"
+msgstr "E-mail повідомлення надіслано"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:87
+msgid "Email Coupon"
+msgstr "Купон електронної пошти"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:85
+msgid "Scheduled Template"
+msgstr "Запланований шаблон"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:72
+msgid "Reschedule Emails"
+msgstr "Перепланувати листи"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:67
+msgid "Close"
+msgstr "Закрити"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:63
+msgid "Reschedule"
+msgstr "Перепланувати"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:59
+msgid "Are your sure?"
+msgstr "Ви впевнені?"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:52
+msgid "All new activated emails will be reschedule for this abandoned order. New emails will be sent to user according to schedule time."
+msgstr "Всі нові активовані листи будуть переплановані для цього залишеного замовлення. Нові листи будуть надіслані користувачеві відповідно до запланованого часу."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:31
+msgid "Back to Reports"
+msgstr "Повернутися до звітів"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:39
+msgid "Custom Filter"
+msgstr "Власний фільтр"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:30
+msgid "Last Month"
+msgstr "Останній місяць"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:26
+msgid "Last Week"
+msgstr "Минулий тиждень"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:22
+msgid "Yesterday"
+msgstr "Учора"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:18
+msgid "Today"
+msgstr "Сьогодні"
+
+#: classes/class-cartflows-ca-settings.php:621
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:642
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:739
+msgid "Day(s)"
+msgstr "День(ів)"
+
+#: classes/class-cartflows-ca-settings.php:620
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:641
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:738
+msgid "Hour(s)"
+msgstr "Година(и)"
+
+#: classes/class-cartflows-ca-settings.php:349
+msgid "<br/><br/> <span class=\"description\"><strong>Note: </strong>. Enter zero (0) to restrict coupon from expiring.</span>"
+msgstr "<br/><br/> <span class=\"description\"><strong>Примітка: </strong>. Введіть нуль (0), щоб обмежити термін дії купона.</span>"
+
+#: classes/class-cartflows-ca-settings.php:221
+msgid "When a user clicks reply, which email address should that reply be sent to?"
+msgstr "Коли користувач клікає \"відповісти\", на яку електронну адресу має бути відправлена ця відповідь?"
+
+#: classes/class-cartflows-ca-settings.php:212
+msgid "Email which send from."
+msgstr "Електронна пошта, з якої відправляється."
+
+#: classes/class-cartflows-ca-settings.php:203
+msgid "Name will appear in email sent."
+msgstr "Ім'я, яке буде вказане відправленому листі."
+
+#: classes/class-cartflows-ca-settings.php:179
+msgid "<br><strong>Note:</strong> This will delete all <strong>expired</strong> and <strong>used</strong> coupons that were created by Woo Cart Abandonment Recovery.</p>"
+msgstr "<br><strong>Примітка:</strong> Це видалить всі <strong>закінчені</strong> та <strong>використані</strong> купони, які були створені системою відновлення кошиків Woo.</p>"
+
+#: classes/class-cartflows-ca-settings.php:175
+msgid "Delete Coupons Manually"
+msgstr "Видалити купони вручну"
+
+#: classes/class-cartflows-ca-settings.php:165
+msgid "Delete coupons automatically on weekly basis.<br><span class=\"description\"><br/><strong>Note:</strong> This option will set a weekly cron to delete all <strong>expired</strong> and <strong>used</strong> coupons automatically in the background.</p>"
+msgstr "Автоматичне видалення купонів щотижня.<br><span class=\"description\"><br/><strong>Примітка:</strong> Ця опція встановлює щотижневий cron для автоматичного видалення всіх <strong>закінчених</strong> та <strong>використаних</strong> купонів у фоновому режимі.</p>"
+
+#: classes/class-cartflows-ca-settings.php:161
+msgid "Delete Coupons Automatically"
+msgstr "Видалити купони автоматично"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:351
+msgid "This checkout page is generated by WooCommerce Cart Abandonment Recovery plugin from test mail."
+msgstr "Цю сторінку оформлення генерує плагін відновлення кошиків WooCommerce з тестової пошти."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:196
+msgid "Activate Template"
+msgstr "Активувати шаблон"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:178
+msgid "Deactivated"
+msgstr "Деактивовано"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:175
+msgid "Activated"
+msgstr "Активовано"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:168
+msgid "Something went wrong"
+msgstr "Щось пішло не так"
+
+#: classes/class-cartflows-ca-settings.php:98
+msgid " It will ignore selected users from abandonment process when they logged in, and hence they can not receive mail for cart abandoned by themselves."
+msgstr " Це ігноруватиме обраних користувачів у процесі відновлення кошика, коли вони увійшли в систему, тому вони не зможуть отримувати листів залишених кошиків."
+
+#: classes/class-cartflows-ca-settings.php:94
+msgid "Disable Tracking For"
+msgstr "Вимкнути відстеження для"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:713
+msgid " Automatically add the coupon to the cart at the checkout."
+msgstr " Автоматично додавати купон до кошика при оформленні замовлення."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:699
+msgid "Auto Apply Coupon"
+msgstr "Автоматичне застосування купона"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:692
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "Відмітьте, якщо купон не може бути використаний в поєднанні з іншими купонами."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:678
+msgid "Individual use only"
+msgstr "Тільки для індивідуального використання"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:671
+msgid "Allows you to grant free shipping. A free shipping method must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\". "
+msgstr "Дозволяє надавати безкоштовну доставку. Метод безкоштовної доставки повинен бути активований у вашій зоні доставки та бути встановлений на обов'язкове використання \"дійсного купона на безкоштовну доставку\". "
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:658
+msgid "Free Shipping"
+msgstr "Безкоштовна доставка"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:652
+msgid "Enter zero (0) to restrict coupon from expiring"
+msgstr "Введіть нуль (0), щоб обмежити термін дії купона"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:564
+msgid "Allows you to send new coupon only for this template."
+msgstr "Дозволяє надсилати новий купон тільки для цього шаблону."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:303
+msgid "Time"
+msgstr "Час"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:302
+msgid "Order Status"
+msgstr "Статус замовлення"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:300
+msgid "Email"
+msgstr "Адреса електронної пошти"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:107
+msgid "View"
+msgstr "Вигляд"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:195
+msgid "Trigger After"
+msgstr "Спрацьовує після"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:194
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:86
+msgid "Email Subject"
+msgstr "Тема листа"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:193
+msgid "Template Name"
+msgstr "Назва шаблону"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:100
+msgid "Clone"
+msgstr "Клонувати"
+
+#: classes/class-cartflows-ca-settings.php:840
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:88
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:122
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:121
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:196
+msgid "Delete"
+msgstr "Видалити"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates-table.php:76
+msgid "Edit"
+msgstr "Редагувати"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:1105
+msgid " Restore Default Templates"
+msgstr " Відновити типові шаблони"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:1102
+msgid "Create New Template"
+msgstr "Створити новий шаблон"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:762
+msgid "Send Test Email To:"
+msgstr "Відправити тестовий електронний лист на:"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:752
+msgid "after cart is abandoned."
+msgstr "після залишення кошика."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:719
+msgid "Send This Email"
+msgstr "Відправити цей лист"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:621
+msgid "Coupon expiry date"
+msgstr "Дата закінчення терміну дії купона"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:551
+msgid "Create Coupon"
+msgstr "Створити купон"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:501
+msgid "Email Body:"
+msgstr "Вміст листа:"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:486
+msgid "Email Subject:"
+msgstr "Тема листа:"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:471
+msgid "Template Name:"
+msgstr "Ім'я шаблону:"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:451
+msgid "Activate Template now?"
+msgstr "Активувати шаблон зараз?"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:281
+msgid "Default Email Templates has been restored successfully."
+msgstr "Типові шаблони електронної пошти успішно відновлені."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:271
+msgid "The Email Template has been successfully updated."
+msgstr "Шаблон електронної пошти успішно оновлено."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:262
+msgid "The Email Template has been successfully deleted."
+msgstr "Шаблон електронної пошти успішно видалено."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:252
+msgid "The Email Template has been cloned successfully."
+msgstr "Шаблон електронної пошти успішно клоновано."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:242
+msgid "The Email Template has been successfully added."
+msgstr "Шаблон електронної пошти успішно додано."
+
+#: classes/class-cartflows-ca-tabs.php:496
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:301
+msgid "Cart Total"
+msgstr "Сума у кошику"
+
+#: classes/class-cartflows-ca-tabs.php:492
+msgid "Shipping"
+msgstr "Доставка"
+
+#: classes/class-cartflows-ca-tabs.php:487
+msgid "Other"
+msgstr "Інше"
+
+#: classes/class-cartflows-ca-tabs.php:483
+msgid "Discount"
+msgstr "Знижка"
+
+#: classes/class-cartflows-ca-tabs.php:477
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:336
+msgid "Line Subtotal"
+msgstr "Рядок Проміжний підсумок"
+
+#: classes/class-cartflows-ca-tabs.php:476
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:335
+msgid "Price"
+msgstr "Ціна"
+
+#: classes/class-cartflows-ca-tabs.php:475
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:334
+msgid "Quantity"
+msgstr "Кількість"
+
+#: classes/class-cartflows-ca-tabs.php:473
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:332
+msgid "Item"
+msgstr "Елемент"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:325
+msgid "Cart Total ( Cart Total + Shipping + Tax )"
+msgstr "Загальна вартість кошика (Загальна вартість + Доставка + Податок)"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:139
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:200
+#: modules/weekly-email-report/templates/email-footer.php:70
+msgid "Unsubscribe"
+msgstr "Відписатися"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:91
+msgid "there"
+msgstr "тут"
+
+#: classes/class-cartflows-ca-tabs.php:199
+msgid "Settings"
+msgstr "Налаштування"
+
+#: classes/class-cartflows-ca-tabs.php:183
+msgid "Follow-Up Emails"
+msgstr "Листи з підписом"
+
+#: classes/class-cartflows-ca-tabs.php:167
+msgid "Report"
+msgstr "Звіт"
+
+#: classes/class-cartflows-ca-tabs.php:102
+msgid "User(s) unsubscribed successfully!"
+msgstr "Користувач(і) успішно відписалися!"
+
+#. translators: %d count
+#: classes/class-cartflows-ca-tabs.php:84
+msgid "Items deleted: %d"
+msgstr "Елементів видалено: %d"
+
+#: classes/class-cartflows-ca-tabs.php:57
+#: classes/class-cartflows-ca-tabs.php:58
+msgid "Cart Abandonment"
+msgstr "Відмова від кошика"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:394
+msgid "You won't receive further emails from us, thank you!"
+msgstr "Ви більше не отримаєте від нас листів, дякуємо!"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:259
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:393
+msgid "No Thanks"
+msgstr "Ні, дякую"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:253
+msgid "You have successfully unsubscribed from our email list."
+msgstr "Ви успішно відписалися від нашого списку розсилки."
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-cron.php:64
+msgid "Every Fifteen Minutes"
+msgstr "Кожні п'ятнадцять хвилин"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:58
+msgid "Mail sending failed!"
+msgstr "Надсилання листа не вдалося!"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:56
+msgid "Mail has been sent successfully!"
+msgstr "Лист успішно відправлено!"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:214
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:852
+msgid "This order was abandoned & subsequently recovered."
+msgstr "Це замовлення було залишене та пізніше відновлене."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-tabs.php:16
+msgid "WooCommerce Cart Abandonment Recovery  "
+msgstr "WooCommerce Cart Abandonment Recovery  "
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:247
+msgid "User Order Details:"
+msgstr "Деталі замовлення користувача:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:232
+msgid "Checkout Link"
+msgstr "Посилання на оформлення замовлення"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:221
+msgid "Country:"
+msgstr "Країна:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:215
+msgid "City:"
+msgstr "Місто:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:207
+msgid "Shipping Address"
+msgstr "Адреса доставки"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:202
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:224
+msgid "Postcode:"
+msgstr "Поштовий індекс:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:198
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:218
+msgid "State:"
+msgstr "Область:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:195
+msgid "Country, City:"
+msgstr "Країна, Місто:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:192
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:212
+msgid "Address 2:"
+msgstr "Адреса 2:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:189
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:209
+msgid "Address 1:"
+msgstr "Адреса 1:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:184
+msgid "Phone"
+msgstr "Телефон"
+
+#: classes/class-cartflows-ca-settings.php:261
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:179
+msgid "Email address"
+msgstr "Адреса електронної пошти"
+
+#: classes/class-cartflows-ca-tabs.php:474
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-schedule.php:333
+#: modules/cart-abandonment/classes/class-cartflows-ca-order-table.php:299
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:176
+msgid "Name"
+msgstr "Ім'я"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:175
+msgid "Billing Address"
+msgstr "Платіжна адреса"
+
+#: modules/cart-abandonment/classes/class-cartflows-ca-tracking.php:256
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:167
+#: modules/weekly-email-report/class-cartflows-ca-admin-report-emails.php:170
+msgid "Unsubscribed"
+msgstr "Скасував підписку"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:163
+msgid "User Address Details:"
+msgstr "Деталі адреси користувача:"
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:130
+msgid "The email has been unscheduled due to the complete order and won't be sent further."
+msgstr "Лист було скасовано через завершене замовлення і далі він не буде надіслано."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:126
+msgid "The email has been sent."
+msgstr "Лист відправлено."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:121
+msgid "Email is in the queue and will be sent at the scheduled time."
+msgstr "Лист знаходиться в черзі і буде надіслано в запланований час."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:118
+msgid "The email has been unsubscribed and won't be sent further."
+msgstr "Лист був відписаний та далі не буде надіслано."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:78
+msgid " No Email Scheduled."
+msgstr " Лист не заплановано."
+
+#: modules/cart-abandonment/includes/cartflows-ca-single-report-details.php:42
+msgid "Email Details:"
+msgstr "Деталі листа:"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:161
+msgid "No Orders Found."
+msgstr "Замовлень не знайдено."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:105
+msgid "Total Percentage Of Recovered Orders After Abandonment."
+msgstr "Загальний відсоток відновлених замовлень після відмови."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:103
+#: modules/weekly-email-report/templates/email-recovery-stat.php:129
+msgid "Recovery Rate"
+msgstr "Ставка відновлення"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:98
+msgid "Total Recovered Revenue."
+msgstr "Загальна сума відшкодованого доходу."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:91
+msgid "Recovered Revenue"
+msgstr "Відновлений дохід"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:86
+msgid "Total Recoverable Revenue."
+msgstr "Загальний відновлюваний дохід."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:78
+msgid "Recoverable Revenue"
+msgstr "Відновлюваний дохід"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:69
+msgid "Total Lost Orders."
+msgstr "Загальна кількість втрачених замовлень."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:66
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:122
+msgid "Lost Orders"
+msgstr "Втрачені замовлення"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:61
+msgid "Total Recovered Orders."
+msgstr "Загальна кількість відновлених замовлень."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:59
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:119
+msgid "Recovered Orders"
+msgstr "Відновлені замовлення"
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:54
+msgid "Total Recoverable Orders."
+msgstr "Загальна кількість замовлень, які можна відновити."
+
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:50
+#: modules/cart-abandonment/includes/cartflows-cart-abandonment-reports.php:116
+msgid "Recoverable Orders"
+msgstr "Замовлення, які можна відновити"
+
+#: classes/class-cartflows-ca-loader.php:182
+msgid "Install WooCommerce"
+msgstr "Встановити WooCommerce"
+
+#: classes/class-cartflows-ca-loader.php:174
+msgid "Activate WooCommerce"
+msgstr "Активувати WooCommerce"
+
+#. translators: %s: html tags
+#: classes/class-cartflows-ca-loader.php:165
+msgid "The %1$sWooCommerce Cart Abandonment Recovery%2$s plugin requires %1$sWooCommerce%2$s plugin installed & activated."
+msgstr "Плагін %1$sWooCommerce Cart Abandonment Recovery%2$s потребує встановленого та активованого плагіна %1$sWooCommerce%2$s"
+
+#: classes/class-cartflows-ca-settings.php:971
+msgid "Invalid email \"Reply\" address field"
+msgstr "Недійсне поле адреси електронної пошти для \"Відповіді\""
+
+#: classes/class-cartflows-ca-settings.php:953
+msgid "Invalid email \"From\" address field"
+msgstr "Недійсне поле адреси електронної пошти відправника"
+
+#: classes/class-cartflows-ca-settings.php:690
+msgid "Coupon code should be numeric and has to be greater than or equals to 1."
+msgstr "Код купона повинен бути числовим і бути більшим або рівним 1."
+
+#: classes/class-cartflows-ca-settings.php:407
+msgid "GDPR Message"
+msgstr "Повідомлення GDPR"
+
+#: classes/class-cartflows-ca-settings.php:402
+msgid "Ask confirmation from the user before tracking data. <br/><br/> <span class=\"description\"><strong>Note:</strong> By checking this, it will show up confirmation text below the email id on checkout page.</span>"
+msgstr "Запитайте підтвердження від користувача перед відстеженням даних. <br/><br/> <span class=\"description\"><strong>Примітка:</strong> При включенні цього, він відобразить текст підтвердження нижче ідентифікатора електронної пошти на сторінці оформлення замовлення.</span>"
+
+#: classes/class-cartflows-ca-settings.php:398
+msgid "Enable GDPR Integration"
+msgstr "Увімкнути інтеграцію GDPR"
+
+#: classes/class-cartflows-ca-settings.php:345
+msgid "Coupon Expires After"
+msgstr "Термін дії купона закінчується через"
+
+#: classes/class-cartflows-ca-settings.php:336
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:603
+msgid "Coupon Amount"
+msgstr "Обсяг купону"
+
+#: classes/class-cartflows-ca-settings.php:327
+#: modules/cart-abandonment/classes/class-cartflows-ca-email-templates.php:571
+msgid "Discount Type"
+msgstr "Тип знижки"
+
+#: classes/class-cartflows-ca-settings.php:322
+msgid "Auto-create the special coupon for the abandoned cart to send over the emails."
+msgstr "Автоматично створіть спеціальний купон для залишеного кошика для відправки по електронній пошті."
+
+#: classes/class-cartflows-ca-settings.php:318
+msgid "Create Coupon Code"
+msgstr "Створити код купона"
+
+#: classes/class-cartflows-ca-settings.php:291
+msgid "Webhook URL"
+msgstr "URL-адреса веб-хука"
+
+#: classes/class-cartflows-ca-settings.php:286
+msgid "Allows you to trigger webhook automatically upon cart abandonment and recovery."
+msgstr "Дозволяє автоматично спрацьовувати вебхуку під час відмови від кошика та його відновлення."
+
+#: classes/class-cartflows-ca-settings.php:282
+msgid "Enable Webhook"
+msgstr "Увімкнути вебхук"
+
+#: classes/class-cartflows-ca-settings.php:217
+msgid "\"Reply To\" Address"
+msgstr "Адреса \"Відповісти\""
+
+#: classes/class-cartflows-ca-settings.php:208
+msgid "\"From\" Address"
+msgstr "Адреса \"Від кого\" електронної пошти"
+
+#: classes/class-cartflows-ca-settings.php:199
+msgid "\"From\" Name"
+msgstr "\"Від кого\" ім'я"
+
+#: classes/class-cartflows-ca-settings.php:70
+msgid "Start capturing abandoned carts. <br/><br/> <span class=\"description\"><strong>Note:</strong> Cart will be considered abandoned if order is not completed in cart abandoned cut-off time.</span>"
+msgstr "Почніть фіксувати покинуті кошики. <br/><br/> <span class=\"description\"><strong>Примітка:</strong> Кошик буде вважатися покинутим, якщо замовлення не буде завершено до закінчення терміну дії кошика.</span>"
+
+#: classes/class-cartflows-ca-settings.php:66
+msgid "Enable Tracking"
+msgstr "Увімкнути відстеження"
+
+#. Author of the plugin
+#: woo-cart-abandonment-recovery.php
+msgid "CartFlows Inc"
+msgstr "CartFlows Inc"
+
+#. Description of the plugin
+#: woo-cart-abandonment-recovery.php
+msgid "Recover your lost revenue. Capture email address of users on the checkout page and send follow up emails if they don't complete the purchase."
+msgstr "Відновіть втрачений дохід. Збирайте електронні адреси користувачів на сторінці оформлення замовлення та надсилайте повторні листи, якщо вони не завершили покупку."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: woo-cart-abandonment-recovery.php
+msgid "https://cartflows.com/"
+msgstr "https://cartflows.com/"
+
+#. Plugin Name of the plugin
+#: woo-cart-abandonment-recovery.php
+msgid "WooCommerce Cart Abandonment Recovery"
+msgstr "WooCommerce Cart Abandonment Recovery"

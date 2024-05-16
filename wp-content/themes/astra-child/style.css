@@ -1,0 +1,13 @@
+/*
+Theme Name:     Astra Child Theme
+Theme URI:      https://gamenix.store
+Description:    Дочірня тема для Gamenix
+Author:         Gamenix
+Author URI:     https://gamenix.store
+Template:       astra
+Version:        1.0.0
+*/
+
+@import url("../astra/style.css");
+
+.header{background:#333;}

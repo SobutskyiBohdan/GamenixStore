@@ -1,0 +1,807 @@
+# Translation of Plugins - Perfect Brands for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Perfect Brands for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-29 18:40:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Perfect Brands for WooCommerce - Stable (latest release)\n"
+
+#: lib/admin/class-admin-tab.php:193
+msgid "Columns"
+msgstr "Столбцы"
+
+#: lib/class-rest-api.php:90
+msgid "Whether to bypass trash and force deletion."
+msgstr "Удалять навсегда, пропуская перемещение в мусорку."
+
+#: lib/class-rest-api.php:64
+msgid "Unique identifier for the resource."
+msgstr "Уникальный идентификатор для ресурса."
+
+#: lib/class-rest-api.php:126
+msgid "Maximum number of items to be returned in result set."
+msgstr "Максимальное количество элементов, возвращаемых в наборе результатов."
+
+#: jetpack_vendor/quadlayers/wp-notice-plugin-promote/src/Traits/PluginActions.php:36
+msgid "Activate"
+msgstr "Активировать"
+
+#: jetpack_vendor/quadlayers/wp-notice-plugin-promote/src/Traits/PluginActions.php:43
+msgid "Install"
+msgstr "Установить"
+
+#: jetpack_vendor/quadlayers/wp-dashboard-widget-news/src/Load.php:94
+msgid "Untitled"
+msgstr "Без заголовка"
+
+#: jetpack_vendor/quadlayers/wp-dashboard-widget-news/src/Load.php:68
+msgid "Hi! We are Quadlayers! We’re a team of international people who have been working in the WordPress sphere for the last ten years."
+msgstr "Привет! Мы - QuadLayers! Добро пожаловать в QuadLayers! Мы - международная команда, работающая в сфере WordPress последние десять лет."
+
+#: jetpack_vendor/quadlayers/wp-dashboard-widget-news/src/Load.php:71
+msgid "More products"
+msgstr "Больше товаров"
+
+#: jetpack_vendor/quadlayers/wp-dashboard-widget-news/src/Load.php:125
+msgid "Read more like this on our blog"
+msgstr "Читайте больше похожих статей на нашем блоге"
+
+#: templates/widgets/filter-by-brand.php:32
+msgid "Remove filter"
+msgstr "Очистить фильтр"
+
+#. Plugin URI of the plugin
+msgid "https://quadlayers.com/products/perfect-woocommerce-brands/"
+msgstr "https://quadlayers.com/products/perfect-woocommerce-brands/"
+
+#. Plugin Name of the plugin
+msgid "Perfect Brands WooCommerce"
+msgstr "Perfect Brands for WooCommerce"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:175
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Любимые"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:174
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:173
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Популярные"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:78
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:93
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:94
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:50
+#: lib/admin/class-admin-tab.php:42
+msgid "Suggestions"
+msgstr "Предложения"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:167
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:53
+msgid "Thanks for using our product! We recommend these extensions that will add new features to stand out your business and improve your sales."
+msgstr "Спасибо за использование нашего продукта! Мы рекомендуем эти расширения, которые добавят новые функции, чтобы выделить ваш бизнес и улучшить ваши продажи."
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:170
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Бета-тестирование"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:172
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: lib/admin/class-admin-tab.php:32
+#: vendor_packages/wp-plugin-table-links.php:23
+msgid "Documentation"
+msgstr "Документация"
+
+#: lib/admin/class-admin-tab.php:136
+msgid "Archives"
+msgstr "Архивы"
+
+#: lib/admin/class-admin-tab.php:261
+msgid "Products tab"
+msgstr "Вкладка \"Товары\""
+
+#: vendor_packages/wp-notice-plugin-promote.php:50
+msgid "Yes, of course!"
+msgstr "Да, конечно!"
+
+#: lib/widgets/class-filter-by-brand.php:50
+msgid "Show only first level brands"
+msgstr "Показать только бренды первого уровня"
+
+#: vendor_packages/wp-notice-plugin-promote.php:55
+msgid "Report a bug"
+msgstr "Сообщить об ошибке"
+
+#: vendor_packages/wp-notice-plugin-promote.php:42
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Привет! Благодарим за выбор %s!"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#. Author of the plugin
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:82
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: lib/admin/class-admin-tab.php:321 lib/admin/class-admin-tab.php:433
+#: lib/class-woocommerce.php:570
+msgid "Yes"
+msgstr "Да"
+
+#: lib/admin/class-admin-tab.php:26 lib/admin/class-admin-tab.php:389
+msgid "General"
+msgstr "Основные"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brand-name"
+msgstr "Название бренда"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brands"
+msgstr "Бренды"
+
+#: lib/admin/class-admin-tab.php:292
+msgid "In meta"
+msgstr "Мета"
+
+#: lib/class-woocommerce.php:565
+msgid "Only parent brands"
+msgstr "Только родительские бренды"
+
+#: lib/admin/class-admin-tab.php:410
+msgid "Select the size for the brand logo image around the site"
+msgstr "Выберите размер изображения логотипа бренда"
+
+#: lib/admin/class-admin-tab.php:420
+msgid "Select your \"Brands\" page (if you have one), it will be linked in the breadcrumbs."
+msgstr "Выберите вашу страницу брендов (если она есть), чтобы добавить ее в \"хлебные крошки\""
+
+#: lib/admin/class-admin-tab.php:411
+msgid "The default image sizes can be configured under \"Settings > Media\". You can also define your own image sizes"
+msgstr "Стандартные размеры изображений могут настраиваться в разделе \"Настройки > Медиафайлы\". Вы также можете определить собственные размеры изображений."
+
+#: lib/admin/class-admin-tab.php:400
+msgid "Your brands URLs will look like \"%s\""
+msgstr "Ссылки брендов будут выглядеть как \"%s\""
+
+#: lib/admin/class-edit-brands-page.php:88
+msgid "Featured"
+msgstr "Рекомендуемое"
+
+#: lib/admin/class-admin-tab.php:416
+msgid "Brands page"
+msgstr "Страница брендов"
+
+#: lib/admin/class-admin-tab.php:189
+msgid "No, hide banner"
+msgstr "Нет, спрятать баннер"
+
+#: lib/admin/class-admin-tab.php:184
+msgid "Show brand banner (if is set) on brand archive page"
+msgstr "Показать баннер бренда (если установлен) на странице архива бренда"
+
+#: lib/admin/class-admin-tab.php:180
+msgid "Show brand banner"
+msgstr "Показать баннер бренда"
+
+#: templates/admin/brands-exporter.php:12
+msgid "Export brands"
+msgstr "Экспортировать бренды"
+
+#: templates/admin/brands-exporter.php:15
+msgid "This tool allows you to export and import the brands between different sites using PWB."
+msgstr "Этот инструмент позволяет вам экспортировать и импортировать бренды между различными сайтами, использующими PWB."
+
+#: lib/admin/class-admin-tab.php:419
+msgid "For linking breadcrumbs"
+msgstr "Для привязки к хлебным крошкам"
+
+#: lib/class-woocommerce.php:556
+msgid "PWB AZ Listing"
+msgstr "PWB А-Я список"
+
+#: lib/class-woocommerce.php:557
+msgid "AZ Listing for brands"
+msgstr "А-Я список для брендов"
+
+#: lib/widgets/class-brands-list.php:98
+msgid "Randomize"
+msgstr "Случайно"
+
+#: lib/widgets/class-filter-by-brand.php:43
+msgid "Hide filter button"
+msgstr "Скрыть кнопку"
+
+#: lib/widgets/class-filter-by-brand.php:35
+msgid "Max number of brands"
+msgstr "Максимальное количество брендов"
+
+#: lib/widgets/class-brands-dropdown.php:60
+#: lib/widgets/class-brands-list.php:88
+msgid "Only favorite brands"
+msgstr "Только любимые бренды"
+
+#: lib/class-term.php:28
+msgid "Only WP_Term objects are allowed"
+msgstr "Разрешён только объект WP_Term"
+
+#: lib/admin/class-admin-tab.php:163 lib/admin/class-admin-tab.php:176
+msgid "No, hide description"
+msgstr "Нет, спрятать описание"
+
+#: lib/admin/class-admin-tab.php:162 lib/admin/class-admin-tab.php:175
+#: lib/admin/class-admin-tab.php:188
+msgid "Yes, after product loop"
+msgstr "Да, после цикла товаров"
+
+#: lib/admin/class-admin-tab.php:149 lib/admin/class-admin-tab.php:161
+#: lib/admin/class-admin-tab.php:174 lib/admin/class-admin-tab.php:187
+msgid "Yes, before product loop"
+msgstr "Да, перед циклом товаров"
+
+#: lib/admin/class-brands-custom-fields.php:21
+#: lib/admin/class-brands-custom-fields.php:70
+msgid "Description"
+msgstr "Описание"
+
+#: lib/admin/class-brands-custom-fields.php:23
+#: lib/admin/class-brands-custom-fields.php:74
+msgid "Brand description for the archive pages. You can include some html markup and shortcodes."
+msgstr "Описание бренда для страницы архива. Вы можете использовать HTML и шорткоды."
+
+#: templates/shortcodes/product-carousel.php:26
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: templates/shortcodes/carousel.php:20
+#: templates/shortcodes/product-carousel.php:23
+msgid "Loading"
+msgstr "Загрузка"
+
+#: lib/admin/class-edit-brands-page.php:138
+msgid "Error!"
+msgstr "Ошибка!"
+
+#: lib/class-woocommerce.php:441
+msgid "Number of items to load (or 'featured')"
+msgstr "Количество товаров для загруки"
+
+#: lib/admin/class-edit-brands-page.php:160
+msgid "Show featured brands first"
+msgstr "Показывать сначала популярные бренды"
+
+#: lib/admin/class-edit-brands-page.php:104
+msgid "Set as featured"
+msgstr "Сделать популярным"
+
+#: lib/admin/class-edit-brands-page.php:48
+msgid "featured"
+msgstr "популярный"
+
+#: lib/class-woocommerce.php:540
+msgid "Hide"
+msgstr "Скрыть"
+
+#: lib/admin/class-admin-tab.php:355
+msgid "Offical WooCommerce Brands"
+msgstr "Официальный плагин WooCommerce Brands"
+
+#: lib/admin/class-admin-tab.php:264
+msgid "Show brand tab in single product page"
+msgstr "Показывать вкладку бренда на странице товара"
+
+#: lib/class-woocommerce.php:538
+msgid "Before image"
+msgstr "Перед изображением"
+
+#: lib/admin/class-coupon.php:30 lib/admin/class-coupon.php:44
+msgid "Any brand"
+msgstr "Любой бренд"
+
+#: lib/admin/class-admin-tab.php:372
+msgid "Show system status"
+msgstr "Показать статус системы"
+
+#: lib/admin/class-admin-tab.php:370
+msgid "System status"
+msgstr "Статус системы"
+
+#: lib/admin/class-admin-tab.php:366
+msgid "Start import"
+msgstr "Начать импорт"
+
+#: lib/admin/class-admin-tab.php:354
+msgid "Ultimate WooCommerce Brands"
+msgstr "Плагин Ultimate WooCommerce Brands"
+
+#: lib/class-woocommerce.php:866
+msgid "All"
+msgstr "Все"
+
+#: lib/admin/class-coupon.php:29
+msgid "Product brands"
+msgstr "Бренды товара"
+
+#: lib/class-woocommerce.php:539
+msgid "After image"
+msgstr "После изображения"
+
+#: lib/class-woocommerce.php:534
+msgid "Title position"
+msgstr "Позиция заголовка"
+
+#: lib/admin/class-admin-tab.php:347
+msgid "Import brands from other brand plugin. <a href=\"%s\" target=\"_blank\">Click here for more details</a>"
+msgstr "Импортировать бренды из других популярных плагинов. <a href=\"%s\" target=\"_blank\">Подробнее</a>"
+
+#: lib/admin/class-admin-tab.php:362
+msgid "Import generic brands and assign it to products randomly"
+msgstr "Импортировать сгенерированные бренды и привязать их к случайным товарам"
+
+#: lib/admin/class-admin-tab.php:359
+msgid "Dummy data"
+msgstr "Тестовые данные"
+
+#: lib/class-woocommerce.php:742
+msgid "¿Start loading dummy data?"
+msgstr "Начать загрузку тестовых данных?"
+
+#: lib/class-woocommerce.php:743
+msgid "We are importing the dummy data. ¡Don´t close this window until the process is finished!"
+msgstr "Начался процесс импорта тестовых данных. Пожалуйста, не закрывайте это окно, пока процесс не завершится!"
+
+#: lib/class-woocommerce.php:510
+msgid "Order by"
+msgstr "Сортировка по"
+
+#: lib/class-woocommerce.php:524
+msgid "Order"
+msgstr "Заказ"
+
+#: lib/widgets/class-brands-list.php:48
+msgid "Display as:"
+msgstr "Показывать как:"
+
+#: lib/class-woocommerce.php:420 lib/class-woocommerce.php:471
+msgid "Display prev and next arrows"
+msgstr "Отображать стрелки назад и вперёд"
+
+#: lib/class-woocommerce.php:546 lib/widgets/class-brands-dropdown.php:49
+#: lib/widgets/class-brands-list.php:78
+msgid "Hide empty"
+msgstr "Скрыть пустые"
+
+#: lib/class-woocommerce.php:418 lib/class-woocommerce.php:469
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: vendor_packages/wp-plugin-table-links.php:8
+msgid "Settings"
+msgstr "Настройки"
+
+#: lib/admin/class-admin-tab.php:271
+msgid "Show brand logo (or name) in single product"
+msgstr "Отображать логотип (или название) на странице товара"
+
+#: lib/widgets/class-brands-list.php:53
+msgid "Brand name"
+msgstr "Название бренда"
+
+#: lib/admin/class-admin-tab.php:268
+msgid "Show brands in single product"
+msgstr "Показывать бренды на странице товара"
+
+#: lib/class-woocommerce.php:548
+msgid "Hide brands that have not been assigned to any product"
+msgstr "Скрывать бренды, что не привязаны ни к каком товару"
+
+#: lib/widgets/class-brands-list.php:58
+msgid "Columns:"
+msgstr "Столбцы:"
+
+#: templates/widgets/filter-by-brand.php:29
+msgid "Apply filter"
+msgstr "Применить фильтр"
+
+#: lib/admin/class-admin-tab.php:89 lib/admin/class-admin-tab.php:207
+#: lib/admin/class-admin-tab.php:275 lib/admin/class-admin-tab.php:320
+#: lib/admin/class-admin-tab.php:432 lib/class-woocommerce.php:569
+msgid "No"
+msgstr "Нет"
+
+#: lib/admin/class-admin-tab.php:90 lib/admin/class-admin-tab.php:208
+#: lib/admin/class-admin-tab.php:276
+msgid "Show brand link"
+msgstr "Показывать ссылку"
+
+#: lib/admin/class-admin-tab.php:30 lib/admin/class-admin-tab.php:337
+msgid "Tools"
+msgstr "Инструменты"
+
+#: lib/admin/class-admin-tab.php:352 lib/admin/class-admin-tab.php:365
+msgid "-"
+msgstr "-"
+
+#: lib/widgets/class-brands-list.php:33
+#: lib/widgets/class-filter-by-brand.php:29
+msgid "Title:"
+msgstr "Название:"
+
+#: lib/class-woocommerce.php:740
+msgid "¿Start migration?"
+msgstr "Начать перенос?"
+
+#: lib/admin/class-admin-tab.php:353
+msgid "YITH WooCommerce Brands Add-On"
+msgstr "YITH WooCommerce Brands Add-On"
+
+#: lib/widgets/class-filter-by-brand.php:13
+msgid "Recommended for product categories or shop page"
+msgstr "Рекомендуемые для категорий товаров или страницы магазина"
+
+#: lib/widgets/class-filter-by-brand.php:14
+msgid "Filter products by brand"
+msgstr "Фильтр товаров по брендам"
+
+#: lib/admin/class-admin-tab.php:343 templates/admin/brands-exporter.php:13
+msgid "Import brands"
+msgstr "Импорт брендов"
+
+#: lib/admin/class-admin-tab.php:91 lib/admin/class-admin-tab.php:209
+#: lib/admin/class-admin-tab.php:277
+msgid "Show brand image (if is set)"
+msgstr "Показывать картинку бренда (если установлено)"
+
+#: lib/admin/class-admin-tab.php:83 lib/admin/class-admin-tab.php:201
+msgid "Show brands in loop"
+msgstr "Показывать бренды в цикле"
+
+#: lib/class-woocommerce.php:741
+msgid "We are migrating the product brands. ¡Don´t close this window until the process is finished!"
+msgstr "Производится перенос брендов товаров. Пожалуйста, не закрывайте окно до завершения данного процесса!"
+
+#: lib/admin/class-admin-tab.php:86 lib/admin/class-admin-tab.php:204
+msgid "Show brand logo (or name) in product loop"
+msgstr "Показывать логотип (или название) в цикле товаров"
+
+#: lib/admin/class-admin-tab.php:158
+msgid "Show brand description (if is set) on brand archive page"
+msgstr "Отображать описание брендов (если настроено) на странице архива"
+
+#: lib/admin/class-admin-tab.php:154
+msgid "Show brand description"
+msgstr "Отображать описание бренда"
+
+#: lib/admin/class-admin-tab.php:29 lib/admin/class-admin-tab.php:255
+#: lib/class-woocommerce.php:387
+msgid "Products"
+msgstr "Товары"
+
+#: lib/class-woocommerce.php:370
+msgid "PWB Product carousel"
+msgstr "PWB Product carousel"
+
+#: lib/class-woocommerce.php:406
+msgid "Number of products to scroll"
+msgstr "Количество товаров для пролистывания"
+
+#: lib/class-woocommerce.php:390
+msgid "Number of products to load"
+msgstr "Количество товаров для загрузки"
+
+#: lib/class-woocommerce.php:403
+msgid "Products to scroll"
+msgstr "Товаров для пролистывания"
+
+#: lib/class-woocommerce.php:395
+msgid "Products to show"
+msgstr "Товаров для отображения"
+
+#: lib/class-woocommerce.php:371
+msgid "Product carousel by brand or by category"
+msgstr "Карусель товаров по брендам или по категориям"
+
+#: lib/class-woocommerce.php:398
+msgid "Number of products to show"
+msgstr "Количество товаров для показа"
+
+#: lib/admin/class-admin-tab.php:293
+msgid "After meta"
+msgstr "После мета"
+
+#: lib/admin/class-admin-tab.php:289
+msgid "After price"
+msgstr "После цены"
+
+#: lib/admin/class-admin-tab.php:294
+msgid "After sharing"
+msgstr "После блока \"Поделиться\""
+
+#: lib/admin/class-admin-tab.php:284
+msgid "For single product"
+msgstr "Для конкретного товара"
+
+#: lib/admin/class-admin-tab.php:287
+msgid "Before title"
+msgstr "Перед названием"
+
+#: lib/admin/class-admin-tab.php:288
+msgid "After title"
+msgstr "После названия"
+
+#: lib/admin/class-admin-tab.php:290
+msgid "After excerpt"
+msgstr "После отрывка"
+
+#: lib/admin/class-admin-tab.php:281
+msgid "Brand position"
+msgstr "Расположение блока брендов"
+
+#: lib/admin/class-admin-tab.php:291
+msgid "After add to cart"
+msgstr "После Добавить в корзину"
+
+#: lib/admin/class-brands-custom-fields.php:42
+msgid "This image will be shown on brand page"
+msgstr "Это изображение будет показано на странице товара"
+
+#: lib/admin/class-brands-custom-fields.php:46
+#: lib/admin/class-brands-custom-fields.php:128
+msgid "Brand banner link"
+msgstr "Ссылка баннера бренда"
+
+#: lib/admin/class-brands-custom-fields.php:39
+#: lib/admin/class-brands-custom-fields.php:108
+msgid "Brand banner"
+msgstr "Баннер бренда"
+
+#: lib/admin/class-brands-custom-fields.php:48
+#: lib/admin/class-brands-custom-fields.php:132
+msgid "This link should be relative to site url. Example: \"/product/product-name\""
+msgstr "Ссылка должна быть относительной url сайта. Например: product/product-name"
+
+#: lib/shortcodes/class-all-brands.php:184
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: lib/shortcodes/class-all-brands.php:181
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: lib/shortcodes/class-all-brands.php:177
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: lib/shortcodes/class-all-brands.php:174
+msgid "First page"
+msgstr "Первая страница"
+
+#: lib/admin/class-edit-brands-page.php:87
+msgid "Logo"
+msgstr "Логотип"
+
+#: lib/class-woocommerce.php:770
+msgid "Parent Brand"
+msgstr "Родительский производитель"
+
+#: lib/class-woocommerce.php:413 lib/class-woocommerce.php:464
+msgid "Autoplay carousel"
+msgstr "Автоматическое пролистывание карусели"
+
+#: lib/class-woocommerce.php:411 lib/class-woocommerce.php:462
+msgid "Autoplay"
+msgstr "Автоматический запуск"
+
+#: lib/class-woocommerce.php:457
+msgid "Number of items to scroll"
+msgstr "Количество записей для пролистывания"
+
+#: lib/class-woocommerce.php:449
+msgid "Number of items to show"
+msgstr "Количество записей для отображения"
+
+#: lib/class-woocommerce.php:589
+msgid "Product id"
+msgstr "id Товара"
+
+#: lib/widgets/class-brands-list.php:145
+msgid "Go to"
+msgstr "Перейти"
+
+#: lib/class-woocommerce.php:579
+msgid "PWB brand"
+msgstr "PWB brand"
+
+#: lib/admin/class-admin-tab.php:395
+msgid "Slug"
+msgstr "Ярлык"
+
+#: lib/admin/class-brands-custom-fields.php:35
+#: lib/admin/class-brands-custom-fields.php:41
+#: lib/admin/class-brands-custom-fields.php:92
+#: lib/admin/class-brands-custom-fields.php:112
+msgid "Select image"
+msgstr "Выбрать изображение"
+
+#: lib/class-woocommerce.php:592
+msgid "Product id (post id)"
+msgstr "id Товара (id записи)"
+
+#: lib/class-woocommerce.php:454
+msgid "Items to scroll"
+msgstr "Записей для пролистывания"
+
+#: lib/class-woocommerce.php:446
+msgid "Items to show"
+msgstr "Записей для отображения"
+
+#: lib/shortcodes/class-all-brands.php:188
+msgid "No results"
+msgstr "Нет результатов"
+
+#. Description of the plugin
+msgid "Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store."
+msgstr "Perfect WooCommerce Brands позволяет отобразить бренды товаров в вашем магазине на основе WooCommerce. "
+
+#: lib/class-woocommerce.php:428
+msgid "PWB Brands carousel"
+msgstr "PWB Brands карусель"
+
+#: lib/class-woocommerce.php:429
+msgid "Brands carousel"
+msgstr "Карусель брендов"
+
+#: lib/admin/class-admin-tab.php:407 lib/class-woocommerce.php:475
+#: lib/class-woocommerce.php:503 lib/class-woocommerce.php:596
+msgid "Brand logo size"
+msgstr "Размер логотипа бренда"
+
+#: lib/class-woocommerce.php:486
+msgid "PWB All brands"
+msgstr "PWB Все бренды"
+
+#: lib/class-woocommerce.php:487
+msgid "Show all brands"
+msgstr "Показать все бренды"
+
+#: lib/class-woocommerce.php:499
+msgid "Show x brands per page"
+msgstr "Показывать X брендов на страницу"
+
+#: lib/class-woocommerce.php:580
+msgid "Show brand for a specific product"
+msgstr "Показать бренды для определённых товаров"
+
+#: lib/class-woocommerce.php:496
+msgid "Brands per page"
+msgstr "Брендов на странице"
+
+#: lib/class-woocommerce.php:649 templates/shortcodes/brand.php:18
+msgid "View brand"
+msgstr "Посмотреть бренд"
+
+#: lib/admin/class-admin-tab.php:28 lib/admin/class-admin-tab.php:308
+#: lib/admin/class-admin-tab.php:451 lib/admin/class-edit-brands-page.php:157
+#: lib/class-woocommerce.php:761 lib/class-woocommerce.php:763
+#: lib/widgets/class-brands-dropdown.php:20
+#: lib/widgets/class-brands-list.php:20
+#: lib/widgets/class-filter-by-brand.php:22
+#: lib/widgets/class-filter-by-brand.php:89 templates/widgets/dropdown.php:14
+msgid "Brands"
+msgstr "Бренды"
+
+#: lib/class-woocommerce.php:764
+msgid "All Brands"
+msgstr "Все бренды"
+
+#: lib/class-woocommerce.php:765
+msgid "Edit Brand"
+msgstr "Редактировать бренд"
+
+#: lib/class-woocommerce.php:766
+msgid "View Brand"
+msgstr "Посмотреть бренд"
+
+#: lib/admin/class-exporter-support.php:22
+#: lib/admin/class-importer-support.php:22
+#: lib/admin/class-importer-support.php:33 lib/class-product.php:22
+#: lib/class-product.php:40 lib/class-woocommerce.php:379
+#: lib/class-woocommerce.php:622 lib/class-woocommerce.php:762
+msgid "Brand"
+msgid_plural "Brands"
+msgstr[0] "Бренд"
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/widgets/class-brands-list.php:12
+msgid "Brands list"
+msgstr "Список брендов"
+
+#: lib/widgets/class-brands-list.php:11
+msgid "Adds a brands list to your site"
+msgstr "Добавляет список брендов (производителей) на ваш сайт."
+
+#: lib/widgets/class-brands-dropdown.php:12
+msgid "Brands dropdown"
+msgstr "Список выбора брендов"
+
+#: lib/widgets/class-brands-dropdown.php:11
+msgid "Adds a brands dropdown to your site"
+msgstr "Добавляет выпадающий список брендов на ваш сайт."
+
+#: lib/admin/class-admin-tab.php:398
+msgid "Brands taxonomy slug"
+msgstr "Ярлык таксономии брендов"
+
+#: lib/admin/class-brands-custom-fields.php:33
+#: lib/admin/class-brands-custom-fields.php:88
+#: lib/widgets/class-brands-list.php:54
+msgid "Brand logo"
+msgstr "Логотип бренда"
+
+#: lib/class-woocommerce.php:777
+msgid "No brands found"
+msgstr "Бренды не найдены"
+
+#: lib/class-woocommerce.php:776
+msgid "Choose from the most used brands"
+msgstr "Выбрать из наиболее часто используемых брендов"
+
+#: lib/class-woocommerce.php:775
+msgid "Add or remove brands"
+msgstr "Добавить или удалить бренды"
+
+#: lib/class-woocommerce.php:774
+msgid "Separate brands with commas"
+msgstr "Разделять бренды запятыми"
+
+#: lib/class-woocommerce.php:773
+msgid "Popular Brands"
+msgstr "Популярные бренды"
+
+#: lib/class-woocommerce.php:772
+msgid "Search Brands"
+msgstr "Поиск по брендам"
+
+#: lib/class-woocommerce.php:771
+msgid "Parent Brand:"
+msgstr "Родительский бренд:"
+
+#: lib/class-woocommerce.php:769
+msgid "New Brand Name"
+msgstr "Новое название бренда"
+
+#: lib/class-woocommerce.php:768
+msgid "Add New Brand"
+msgstr "Добавить новый бренд"
+
+#: lib/class-woocommerce.php:767
+msgid "Update Brand"
+msgstr "Обновить бренд"
+
+#: lib/widgets/class-brands-dropdown.php:27
+msgid "Title"
+msgstr "Наименование"
+
+#: lib/class-woocommerce.php:438
+msgid "Items"
+msgstr "Товары"

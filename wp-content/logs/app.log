@@ -1,0 +1,1054 @@
+
+01-05-2024 18:44:29 [www.gamenix.store][info] Parent plugin start installation!
+01-05-2024 18:44:29 [www.gamenix.store][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+01-05-2024 18:44:29 [www.gamenix.store][info] Parent plugin installation complete!
+-------------------------------
+01-05-2024 18:44:31 [www.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/www/wp-content/uploads/wio_backup)
+-------------------------------
+01-05-2024 18:45:03 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:03 [www.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/www/wp-content/uploads/wio_backup/2024/03)
+01-05-2024 18:45:03 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore.jpg) to a remote server (server_1).
+01-05-2024 18:45:03 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:04 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:04 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:04 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore-300x300.jpg) to a remote server (server_1).
+01-05-2024 18:45:04 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:04 [www.gamenix.store][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"4563","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":166399,"final_size":159991,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":140090,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578304}
+01-05-2024 18:45:04 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+01-05-2024 18:45:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:05 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore-removebg-preview.png) to a remote server (server_1).
+01-05-2024 18:45:05 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:05 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore-removebg-preview-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:05 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:06 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/GamenixStore-removebg-preview-300x300.png) to a remote server (server_1).
+01-05-2024 18:45:06 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:06 [www.gamenix.store][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"4564","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":301112,"final_size":95034,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":176046,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578306}
+01-05-2024 18:45:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+01-05-2024 18:45:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:06 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-GamenixStore-removebg-preview.png) to a remote server (server_1).
+01-05-2024 18:45:07 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:07 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-GamenixStore-removebg-preview-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:07 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:07 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-GamenixStore-removebg-preview-300x300.png) to a remote server (server_1).
+01-05-2024 18:45:07 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:08 [www.gamenix.store][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"4586","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":342585,"final_size":106304,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":207148,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578308}
+01-05-2024 18:45:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+01-05-2024 18:45:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:08 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-contacts-scaled.jpg) to a remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-contacts-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-contacts-300x200.jpg) to a remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:09 [www.gamenix.store][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"4650","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":545116,"final_size":237332,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":497440,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578309}
+01-05-2024 18:45:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+01-05-2024 18:45:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:10 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-about-scaled.jpg) to a remote server (server_1).
+01-05-2024 18:45:10 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:11 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-about-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:11 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:11 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/bg-about-300x200.jpg) to a remote server (server_1).
+01-05-2024 18:45:11 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:11 [www.gamenix.store][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"4659","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":417591,"final_size":191399,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":397885,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578311}
+01-05-2024 18:45:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+01-05-2024 18:45:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:11 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem3.jpg) to a remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem3-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem3-285x300.jpg) to a remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:12 [www.gamenix.store][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"4706","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":43746,"final_size":43746,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26084,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578312}
+01-05-2024 18:45:12 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+01-05-2024 18:45:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:13 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem4.jpg) to a remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem4-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/shlem4-300x300.jpg) to a remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:13 [www.gamenix.store][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"4707","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":52719,"final_size":52719,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":37304,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578313}
+01-05-2024 18:45:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+01-05-2024 18:45:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:14 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-removebg-preview-1.png) to a remote server (server_1).
+01-05-2024 18:45:14 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:14 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-removebg-preview-1-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:14 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:14 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-removebg-preview-1-300x300.png) to a remote server (server_1).
+01-05-2024 18:45:15 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:15 [www.gamenix.store][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"4752","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":142240,"final_size":58827,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":23293,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578315}
+01-05-2024 18:45:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+01-05-2024 18:45:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:15 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-logo-black-1.jpg) to a remote server (server_1).
+01-05-2024 18:45:15 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:16 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-logo-black-1-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:16 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:16 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/03/cropped-gamenixstore-logo-black-1-300x300.jpg) to a remote server (server_1).
+01-05-2024 18:45:16 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:16 [www.gamenix.store][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"4755","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":58866,"final_size":58866,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":34911,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578316}
+01-05-2024 18:45:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+01-05-2024 18:45:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:16 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:17 [www.gamenix.store][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"4765","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":22517,"final_size":22517,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":20116,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578317}
+01-05-2024 18:45:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+01-05-2024 18:45:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:18 [www.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/www/wp-content/uploads/wio_backup/2024/04)
+01-05-2024 18:45:18 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/d9b2878d-d0cb-4a46-9782-27891496797b.jpg) to a remote server (server_1).
+01-05-2024 18:45:18 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:18 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/d9b2878d-d0cb-4a46-9782-27891496797b-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:18 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:18 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/d9b2878d-d0cb-4a46-9782-27891496797b-300x300.jpg) to a remote server (server_1).
+01-05-2024 18:45:19 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:19 [www.gamenix.store][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"4782","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":102005,"final_size":102005,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":74587,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578319}
+01-05-2024 18:45:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+01-05-2024 18:45:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:19 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bajaj-logo-vector.png) to a remote server (server_1).
+01-05-2024 18:45:19 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:19 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bajaj-logo-vector-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:20 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:20 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bajaj-logo-vector-300x300.png) to a remote server (server_1).
+01-05-2024 18:45:20 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:20 [www.gamenix.store][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"4792","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2754,"final_size":2745,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1134,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578320}
+01-05-2024 18:45:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+01-05-2024 18:45:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:21 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ducati_red_logo.svg_.png) to a remote server (server_1).
+01-05-2024 18:45:21 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:22 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ducati_red_logo.svg_-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:22 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:22 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ducati_red_logo.svg_-283x300.png) to a remote server (server_1).
+01-05-2024 18:45:22 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:22 [www.gamenix.store][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"4793","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":25082,"final_size":25082,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":19835,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578322}
+01-05-2024 18:45:22 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+01-05-2024 18:45:23 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:23 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/kovi.png) to a remote server (server_1).
+01-05-2024 18:45:23 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:23 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/kovi-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:23 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:23 [www.gamenix.store][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"4794","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":4169,"final_size":4169,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":2388,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578323}
+01-05-2024 18:45:23 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+01-05-2024 18:45:23 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:24 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ktm-logo.png) to a remote server (server_1).
+01-05-2024 18:45:24 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:24 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ktm-logo-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:24 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:25 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/ktm-logo-300x169.png) to a remote server (server_1).
+01-05-2024 18:45:25 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:25 [www.gamenix.store][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"4795","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":14705,"final_size":14705,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":12297,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578325}
+01-05-2024 18:45:25 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+01-05-2024 18:45:25 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:26 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/lifan-logo.png) to a remote server (server_1).
+01-05-2024 18:45:26 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:26 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/lifan-logo-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:26 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:26 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/lifan-logo-300x169.png) to a remote server (server_1).
+01-05-2024 18:45:26 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:27 [www.gamenix.store][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"4796","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":24486,"final_size":24486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":22121,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578327}
+01-05-2024 18:45:27 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+01-05-2024 18:45:27 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:27 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/loncin.png) to a remote server (server_1).
+01-05-2024 18:45:27 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:27 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/loncin-150x135.png) to a remote server (server_1).
+01-05-2024 18:45:28 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:28 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/loncin-300x45.png) to a remote server (server_1).
+01-05-2024 18:45:28 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:28 [www.gamenix.store][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"4797","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":4723,"final_size":4723,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":2702,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578328}
+01-05-2024 18:45:28 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+01-05-2024 18:45:28 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:28 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg2new-scaled.jpg) to a remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg2new-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg2new-300x200.jpg) to a remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:29 [www.gamenix.store][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"4802","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":137618,"final_size":137618,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":124755,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578329}
+01-05-2024 18:45:29 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+01-05-2024 18:45:30 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:30 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg3new-scaled.jpg) to a remote server (server_1).
+01-05-2024 18:45:30 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:31 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg3new-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:31 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:31 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg3new-300x200.jpg) to a remote server (server_1).
+01-05-2024 18:45:31 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:31 [www.gamenix.store][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"4803","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":178994,"final_size":178994,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":167815,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578331}
+01-05-2024 18:45:31 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+01-05-2024 18:45:32 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:32 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg4new.jpg) to a remote server (server_1).
+01-05-2024 18:45:32 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:32 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg4new-150x150.jpg) to a remote server (server_1).
+01-05-2024 18:45:32 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:32 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/bg4new-300x169.jpg) to a remote server (server_1).
+01-05-2024 18:45:33 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:33 [www.gamenix.store][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"4804","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":108693,"final_size":108693,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":98646,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578333}
+01-05-2024 18:45:33 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+01-05-2024 18:45:33 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:33 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/img_3701.gif) to a remote server (server_1).
+01-05-2024 18:45:34 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:34 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/img_3701-150x150.gif) to a remote server (server_1).
+01-05-2024 18:45:34 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:34 [www.gamenix.store][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"4873","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2241655,"final_size":2240160,"original_mime_type":"image\/gif","final_mime_type":"image\/gif","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":2226681,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578334}
+01-05-2024 18:45:34 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+01-05-2024 18:45:35 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:37 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/gamenix_store.png) to a remote server (server_1).
+01-05-2024 18:45:37 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:38 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/gamenix_store-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:38 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:38 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/gamenix_store-107x300.png) to a remote server (server_1).
+01-05-2024 18:45:38 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:38 [www.gamenix.store][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"4908","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":5377089,"final_size":243829,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":5322514,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578338}
+01-05-2024 18:45:38 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+01-05-2024 18:45:39 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:39 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/telegram.png) to a remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/telegram-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/telegram-284x300.png) to a remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:39 [www.gamenix.store][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"4991","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":124172,"final_size":52811,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":30543,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578339}
+01-05-2024 18:45:39 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+01-05-2024 18:45:40 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:40 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/payment.png) to a remote server (server_1).
+01-05-2024 18:45:40 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:40 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/payment-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:40 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:40 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/payment-300x231.png) to a remote server (server_1).
+01-05-2024 18:45:41 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:41 [www.gamenix.store][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"4994","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":81345,"final_size":31787,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":57851,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578341}
+01-05-2024 18:45:41 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+01-05-2024 18:45:41 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:41 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/googleauth.png) to a remote server (server_1).
+01-05-2024 18:45:41 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:42 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/googleauth-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:42 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:42 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/04/googleauth-300x165.png) to a remote server (server_1).
+01-05-2024 18:45:42 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:42 [www.gamenix.store][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"4995","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78945,"final_size":35738,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":49953,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578342}
+01-05-2024 18:45:42 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+01-05-2024 18:45:43 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:43 [www.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/www/wp-content/uploads/wio_backup/2024/05)
+01-05-2024 18:45:43 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/cryptogx.png) to a remote server (server_1).
+01-05-2024 18:45:43 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:44 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/cryptogx-150x150.png) to a remote server (server_1).
+01-05-2024 18:45:44 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:44 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/cryptogx-300x169.png) to a remote server (server_1).
+01-05-2024 18:45:44 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+01-05-2024 18:45:44 [www.gamenix.store][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"5034","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":507550,"final_size":115610,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":474432,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1714578344}
+01-05-2024 18:45:44 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:45 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:45 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:45 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:45 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:46 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:46 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:46 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:46 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:47 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:47 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:47 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:47 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:48 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:48 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:48 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:48 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:49 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:49 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:49 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:49 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:50 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:50 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:50 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:50 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:51 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:51 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:51 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:51 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:52 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:52 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:52 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:52 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:53 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:53 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:53 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:53 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:54 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:54 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:54 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:54 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:55 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:55 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:55 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:55 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:56 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:56 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:56 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:56 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:57 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:57 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:57 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:57 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:58 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:58 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:58 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:58 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:59 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:59 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:45:59 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:45:59 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:00 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:00 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:00 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:00 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:01 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:01 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:01 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:01 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:02 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:02 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:03 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:03 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:03 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:03 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:04 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:04 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:04 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:04 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:07 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:07 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:07 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:07 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:09 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:09 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:12 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:12 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:12 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:12 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:14 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:14 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:17 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:17 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:18 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:18 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:21 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:21 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:21 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:21 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:22 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:22 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:22 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:22 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:23 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:23 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:23 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:23 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:24 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:24 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:24 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:24 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:25 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:25 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:25 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:25 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:26 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:26 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:26 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:26 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:27 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:27 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:27 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:27 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:28 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:28 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:28 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:28 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:29 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:29 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:29 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:29 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:30 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:30 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:30 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:30 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:31 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:31 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:31 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:31 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:32 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:32 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:32 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:32 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:33 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:33 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:33 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:33 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:34 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:34 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:34 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:34 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:35 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:35 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:35 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:35 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:36 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:36 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:36 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:36 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:37 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:37 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:37 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:37 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:38 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:38 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:38 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:38 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:39 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:39 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:39 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:39 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:40 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:40 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:40 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:40 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:41 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:41 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:41 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:41 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:42 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:42 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:42 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:42 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:43 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:43 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:44 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:44 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:44 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:44 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 18:46:45 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+01-05-2024 18:46:45 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-05-2024 19:14:45 [www.gamenix.store][warning] This format is disabled in the plugin settings: image/webp
+-------------------------------
+01-05-2024 19:14:50 [www.gamenix.store][warning] This format is disabled in the plugin settings: image/webp
+-------------------------------
+01-05-2024 19:14:51 [www.gamenix.store][warning] This format is disabled in the plugin settings: image/webp
+-------------------------------
+14-05-2024 18:51:46 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:51:49 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/favgear.png) to a remote server (server_1).
+14-05-2024 18:51:50 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:51 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/favgear-150x150.png) to a remote server (server_1).
+14-05-2024 18:51:51 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:51 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/favgear-300x169.png) to a remote server (server_1).
+14-05-2024 18:51:51 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:51 [www.gamenix.store][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"5070","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1764671,"final_size":630592,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1677305,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715701911}
+14-05-2024 18:51:51 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+14-05-2024 18:51:52 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:51:52 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/granddinner.png) to a remote server (server_1).
+14-05-2024 18:51:53 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:53 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/granddinner-150x150.png) to a remote server (server_1).
+14-05-2024 18:51:54 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:54 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/granddinner-300x169.png) to a remote server (server_1).
+14-05-2024 18:51:54 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:54 [www.gamenix.store][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"5072","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1136005,"final_size":276842,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1072691,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715701914}
+14-05-2024 18:51:54 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+14-05-2024 18:51:55 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:51:55 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/storenutrition.png) to a remote server (server_1).
+14-05-2024 18:51:56 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:56 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/storenutrition-150x150.png) to a remote server (server_1).
+14-05-2024 18:51:57 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:57 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/storenutrition-300x169.png) to a remote server (server_1).
+14-05-2024 18:51:57 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:51:57 [www.gamenix.store][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"5073","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3464710,"final_size":913484,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":3363939,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715701917}
+14-05-2024 18:51:57 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+14-05-2024 18:51:58 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:51:58 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/baggistore.png) to a remote server (server_1).
+14-05-2024 18:52:00 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:00 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/baggistore-150x150.png) to a remote server (server_1).
+14-05-2024 18:52:00 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:00 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/baggistore-300x169.png) to a remote server (server_1).
+14-05-2024 18:52:01 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:01 [www.gamenix.store][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"5074","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3624881,"final_size":1049075,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":3471149,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715701921}
+14-05-2024 18:52:01 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+14-05-2024 18:52:01 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:03 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/black-motorbike-with-riding-red-gloves.jpg) to a remote server (server_1).
+14-05-2024 18:52:04 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:04 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/black-motorbike-with-riding-red-gloves-150x150.jpg) to a remote server (server_1).
+14-05-2024 18:52:04 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:04 [www.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/www/wp-content/uploads/2024/05/black-motorbike-with-riding-red-gloves-300x200.jpg) to a remote server (server_1).
+14-05-2024 18:52:05 [www.gamenix.store][info] File successfully uploaded to remote server (server_1).
+14-05-2024 18:52:05 [www.gamenix.store][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"5102","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":10591493,"final_size":301588,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":10525842,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715701925}
+14-05-2024 18:52:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:07 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:07 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:09 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:09 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:12 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:12 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:14 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:14 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:17 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:17 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:18 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:21 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:21 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:22 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:22 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:22 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:22 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:23 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:23 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:24 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:24 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:24 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:24 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:25 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:25 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:25 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:25 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:26 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:26 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:27 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:27 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:27 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:27 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:28 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:28 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:29 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:29 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:29 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:29 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:30 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:30 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:30 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:30 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:31 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:31 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:31 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:31 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:32 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:32 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:33 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:33 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:33 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:33 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:34 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:34 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:34 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:34 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:35 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:35 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:36 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:36 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:36 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:36 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:37 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:37 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:37 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:37 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:38 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:38 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:38 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:38 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:39 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:39 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:40 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:40 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:40 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:40 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:41 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:41 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:42 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:42 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:42 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:42 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:43 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:43 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:43 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:43 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:44 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:44 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:45 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:45 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:46 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:46 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:46 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:46 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:47 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:47 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:47 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:47 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:48 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:48 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:49 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:49 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:49 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:49 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:50 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:50 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:50 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:50 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:51 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:51 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:52 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:52 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:52 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:52 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:53 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:53 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:53 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:53 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:54 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:54 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:55 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:55 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:55 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:55 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:56 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:56 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:56 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:56 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:57 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:57 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:58 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:58 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:58 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:58 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:59 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:59 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:52:59 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:52:59 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:00 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:00 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:01 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:01 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:01 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:01 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:02 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:02 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:03 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:03 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:03 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:03 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:04 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:04 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:04 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:04 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:05 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:05 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:06 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:06 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:07 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:07 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:07 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:07 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:08 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:08 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:09 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:09 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:10 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:10 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:11 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:11 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:12 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:12 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:13 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:13 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:14 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:14 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:15 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:15 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:16 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:16 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:17 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:17 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:18 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:18 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:18 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:19 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:19 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+14-05-2024 18:53:20 [www.gamenix.store][info] Start bulk optimization process! Scope: media-library
+14-05-2024 18:53:20 [www.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------

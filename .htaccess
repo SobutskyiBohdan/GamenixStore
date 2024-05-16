@@ -1,0 +1,110 @@
+# BEGIN WClearfyCache
+# Modified Time: 01-05-24 17:59:38
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} =on
+RewriteCond %{HTTP_HOST} ^www.gamenix.store
+# Start WCLEARFY Exclude
+# End WCLEARFY Exclude
+# Start_WCLEARFY_Exclude_Admin_Cookie
+RewriteCond %{HTTP:Cookie} !wordpress_logged_in_[^\=]+\=admin
+# End_WCLEARFY_Exclude_Admin_Cookie
+RewriteCond %{HTTP_HOST} ^www.gamenix.store
+RewriteCond %{HTTP_USER_AGENT} !(facebookexternalhit|Twitterbot|LinkedInBot|WhatsApp|Mediatoolkitbot)
+RewriteCond %{HTTP_USER_AGENT} !(WP\sFastest\sCache\sPreload(\siPhone\sMobile)?\s*Bot)
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteCond %{REQUEST_URI} !(\/){2}$
+RewriteCond %{REQUEST_URI} \/$
+RewriteCond %{QUERY_STRING} !.+
+RewriteCond %{HTTP:Cookie} !comment_author_
+RewriteCond %{HTTP:Cookie} !safirmobilswitcher=mobil
+RewriteCond %{HTTP:Profile} !^[a-z0-9\"]+ [NC]
+RewriteCond %{DOCUMENT_ROOT}/wp-content/cache/all/$1/index.html -f [or]
+RewriteCond /home/ji533578/gamenix.store/www/wp-content/cache/all/$1/index.html -f
+RewriteRule ^(.*) "/wp-content/cache/all/$1/index.html" [L]
+</IfModule>
+<FilesMatch "index\.(html|htm)$">
+AddDefaultCharset UTF-8
+<ifModule mod_headers.c>
+FileETag None
+Header unset ETag
+Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Expires "Mon, 29 Oct 1923 20:30:00 GMT"
+</ifModule>
+</FilesMatch>
+# END WClearfyCache
+
+# BEGIN LBCWClearfyCache
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresDefault                              'access plus 1 month'
+ExpiresByType text/cache-manifest           'access plus 0 seconds'
+ExpiresByType text/html                     'access plus 0 seconds'
+ExpiresByType text/xml                      'access plus 0 seconds'
+ExpiresByType application/xml               'access plus 0 seconds'
+ExpiresByType application/json              'access plus 0 seconds'
+ExpiresByType application/rss+xml           'access plus 1 hour'
+ExpiresByType application/atom+xml          'access plus 1 hour'
+ExpiresByType image/x-icon                  'access plus 1 week'
+ExpiresByType image/gif                     'access plus 4 months'
+ExpiresByType image/png                     'access plus 4 months'
+ExpiresByType image/jpeg                    'access plus 4 months'
+ExpiresByType image/webp                    'access plus 4 months'
+ExpiresByType video/ogg                     'access plus 4 months'
+ExpiresByType audio/ogg                     'access plus 4 months'
+ExpiresByType video/mp4                     'access plus 4 months'
+ExpiresByType video/webm                    'access plus 4 months'
+ExpiresByType text/x-component              'access plus 1 month'
+ExpiresByType font/ttf                      'access plus 4 months'
+ExpiresByType font/otf                      'access plus 4 months'
+ExpiresByType font/woff                     'access plus 4 months'
+ExpiresByType font/woff2                    'access plus 4 months'
+ExpiresByType image/svg+xml                 'access plus 1 month'
+ExpiresByType application/vnd.ms-fontobject 'access plus 1 month'
+ExpiresByType text/css                      'access plus 1 year'
+ExpiresByType application/javascript        'access plus 1 year'
+</IfModule>
+# END LBCWClearfyCache# BEGIN GzipWClearfyCache
+<IfModule mod_deflate.c>
+AddType x-font/woff .woff
+AddType x-font/ttf .ttf
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE x-font/ttf
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE font/opentype font/ttf font/eot font/otf
+</IfModule>
+# END GzipWClearfyCache
+# BEGIN WordPress
+# Директиви (рядки) між `BEGIN WordPress` і `END WordPress`
+# створені автоматично і підлягають змінам тільки через фільтри WordPress.
+# Зміни зроблені вручну між цими маркерами будуть перезаписані.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN ShortPixelWebp
+# Директиви (рядки) між `BEGIN ShortPixelWebp` і `END ShortPixelWebp`
+# створені автоматично і підлягають змінам тільки через фільтри WordPress.
+# Зміни зроблені вручну між цими маркерами будуть перезаписані.
+
+# END ShortPixelWebp

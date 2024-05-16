@@ -1,0 +1,126 @@
+# Translation of Plugins - WPS Hide Login - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - WPS Hide Login - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-12 22:12:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WPS Hide Login - Stable (latest release)\n"
+
+#: classes/plugin.php:841
+msgid "WPS Hide Login : Please note that the comment_registration option “Users must be registered and logged in to comment” is activated on your site, the connection link will not be hidden on the comments block."
+msgstr "WPS Hide Login: Зверніть увагу, що опція реєстрації коментарів «Користувачі повинні бути зареєстровані та увійшли, щоб залишити коментар» активована на вашому сайті, зв'язок не буде прихований у блоку коментарів."
+
+#: classes/plugin.php:814
+msgid "WPS Hide Login : Please note, if you check the comment_registration option \"Users must be registered and logged in to comment\", the login link will not be hidden on the comment block."
+msgstr "WPS Hide Login: Зверніть увагу, якщо ви встановите опцію реєстрації коментарів «Користувачі повинні бути зареєстровані та увійшли в систему, щоб залишити коментар», посилання на вхід не буде приховано на блоку коментарів."
+
+#. Author of the plugin
+msgid "WPServeur, NicolasKulka, wpformation"
+msgstr "WPServeur, NicolasKulka, wpformation"
+
+#: classes/plugin.php:422
+msgid "Redirect URL when someone tries to access the wp-login.php page and the wp-admin directory while not logged in."
+msgstr "Перенаправлення URL-адреси, коли хтось намагається отримати доступ до сторінки wp-login.php і каталогу wp-admin, не ввійшовши в систему."
+
+#: classes/plugin.php:407
+msgid "Protect your website by changing the login URL and preventing access to the wp-login.php page and the wp-admin directory to non-connected people."
+msgstr "Захистіть свій веб-сайт, змінивши URL-адресу входу та заборонивши доступ до сторінки wp-login.php і каталогу wp-admin для людей, які не підключені до мережі."
+
+#: classes/plugin.php:378
+msgid "WPS Limit Login"
+msgstr "WPS Limit Login"
+
+#: classes/plugin.php:378
+msgid "and"
+msgstr "і"
+
+#: classes/plugin.php:377
+msgid "WPS Cleaner"
+msgstr "WPS Cleaner"
+
+#: classes/plugin.php:376
+msgid "WPS Bidouille"
+msgstr "WPS Bidouille"
+
+#: classes/plugin.php:376 classes/plugin.php:377
+msgid "the plugin"
+msgstr "плагін"
+
+#: classes/plugin.php:375
+msgid "Discover our other plugins:"
+msgstr "Відкрийте для себе інші плагіни:"
+
+#: classes/plugin.php:374
+msgid "WordPress specialized hosting"
+msgstr "Спеціалізований хостинг WordPress"
+
+#: classes/plugin.php:301
+msgid "Redirection url"
+msgstr "URL-адреса перенаправлення"
+
+#: classes/plugin.php:250
+msgid "Redirection url default"
+msgstr "URL-адреса перенаправлення за умовчанням"
+
+#. Author URI of the plugin
+msgid "https://wpserveur.net"
+msgstr "https://wpserveur.net"
+
+#: classes/plugin.php:526
+msgid "This has been disabled"
+msgstr "Це було вимкнено"
+
+#. Description of the plugin
+msgid "Protect your website by changing the login URL and preventing access to wp-login.php page and wp-admin directory while not logged-in"
+msgstr "Захистіть свій веб-сайт, шляхом зміни URL-адреси для входу та заборони доступу до сторінки wp-login.php та до каталогу wp-admin, поки не увійшли в систему"
+
+#: classes/plugin.php:484
+msgid "This feature is not enabled."
+msgstr "Ця функція не увімкнена."
+
+#: classes/plugin.php:447 classes/plugin.php:451
+msgid "Settings"
+msgstr "Налаштування"
+
+#: classes/plugin.php:436
+msgid "Your login page is now here: <strong><a href=\"%1$s\">%2$s</a></strong>. Bookmark this page!"
+msgstr "Ваша сторінка для входу відтепер знаходиться тут: <strong><a href=\"%1$s\">%2$s</a></strong>. Збережіть її у закладках!"
+
+#: classes/plugin.php:387
+msgid "To set a networkwide default, go to <a href=\"%s\">Network Settings</a>."
+msgstr "Щоб встановити налаштування за замовчуванням у всій мережі, перейдіть до <a href=\"%s\">Налаштувань мережі</a>."
+
+#: classes/plugin.php:293
+msgid "Login url"
+msgstr "URL для входу"
+
+#: classes/plugin.php:248
+msgid "Networkwide default"
+msgstr "Мережа за замовчуванням"
+
+#: classes/plugin.php:245 classes/plugin.php:374
+msgid "Need help? Try the <a href=\"%1$s\" target=\"_blank\">support forum</a>. This plugin is kindly brought to you by <a href=\"%2$s\" target=\"_blank\">WPServeur</a>"
+msgstr "Потрібна допомога? Спробуйте звернутися на <a href=\"%1$s\" target=\"_blank\">форум підтримки</a>. Цей плагін люб'язно представлений <a href=\"%2$s\" target=\"_blank\">WPServeur</a>"
+
+#: classes/plugin.php:244
+msgid "This option allows you to set a networkwide default, which can be overridden by individual sites. Simply go to to the site’s permalink settings to change the url."
+msgstr "Цей параметр дозволяє встановити за замовчуванням мережу, яка може бути змінена окремими сайтами. Просто перейдіть до налаштувань постійних посилань сайту, щоб змінити URL-адресу."
+
+#: classes/plugin.php:226
+msgid "WPS Hide Login could not be activated because you already have Rename wp-login.php active. Please uninstall rename wp-login.php to use WPS Hide Login"
+msgstr "Неможливо активувати WPS Hide Login тому, що вже активовано плагін Rename wp-login.php. Видаліть, будь ласка, плагін Rename wp-login.php, щоб використовувати WPS Hide Login"
+
+#. Plugin Name of the plugin
+#: classes/plugin.php:220 classes/plugin.php:243 classes/plugin.php:701
+#: classes/plugin.php:710
+msgid "WPS Hide Login"
+msgstr "WPS Hide Login"
+
+#: classes/plugin.php:220
+msgid "Please upgrade to the latest version of WordPress to activate"
+msgstr "Будь ласка, оновіть WordPress до останньої версії, щоб активувати"
